@@ -5,9 +5,9 @@ import numpy as np
 
 # Load the model
 model = pickle.load(
-    open('/Users/sushanth/Desktop/Data_Glacier/Week_12/model_1.pkl', 'rb'))
+    open('model_1.pkl', 'rb'))
 
-with open('/Users/sushanth/Desktop/Data_Glacier/Week_12/tokenizer.pkl', 'rb') as handle:
+with open('tokenizer.pkl', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
 # Initialize Flask app
