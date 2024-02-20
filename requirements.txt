@@ -3,7 +3,6 @@ MarkupSafe
 Werkzeug
 scikit-learn
 Flask
-sklearn
 pandas
 numpy
 matplotlib
