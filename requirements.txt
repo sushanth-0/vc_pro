@@ -2,7 +2,6 @@ itsdangerous
 MarkupSafe
 Werkzeug
 scikit-learn
-tensorflow
 Flask
 sklearn
 pandas
